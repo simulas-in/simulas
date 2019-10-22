@@ -25,6 +25,7 @@
     <!-- SwitchCompat -->
     <color name="thumb_deactivated">#FFECECEC</color>
     <color name="track_deactivated">#FFB2B2B2</color>
+    <color name="thumb_activated">#1E88E5</color>
 
     <!-- Radiobutton -->
     <color name="radiobutton_disabled">#FF757575</color>
