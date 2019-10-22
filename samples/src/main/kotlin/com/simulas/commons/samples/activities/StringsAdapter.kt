@@ -3,11 +3,11 @@ package com.simulas.commons.samples.activities
 import android.view.Menu
 import android.view.View
 import android.view.ViewGroup
-import com.simplemobiletools.commons.activities.BaseSimpleActivity
-import com.simplemobiletools.commons.adapters.MyRecyclerViewAdapter
-import com.simplemobiletools.commons.samples.R
-import com.simplemobiletools.commons.views.FastScroller
-import com.simplemobiletools.commons.views.MyRecyclerView
+import com.simulas.commons.activities.BaseSimpleActivity
+import com.simulas.commons.adapters.MyRecyclerViewAdapter
+import com.simulas.commons.samples.R
+import com.simulas.commons.views.FastScroller
+import com.simulas.commons.views.MyRecyclerView
 import kotlinx.android.synthetic.main.list_item.view.*
 
 class StringsAdapter(activity: BaseSimpleActivity, var strings: MutableList<String>, recyclerView: MyRecyclerView, fastScroller: FastScroller, itemClick: (Any) -> Unit) :

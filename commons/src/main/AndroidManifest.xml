@@ -16,8 +16,8 @@
             android:name=".receivers.SharedThemeReceiver"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.simplemobiletools.commons.SHARED_THEME_ACTIVATED"/>
-                <action android:name="com.simplemobiletools.commons.SHARED_THEME_UPDATED"/>
+                <action android:name="com.simulas.commons.SHARED_THEME_ACTIVATED"/>
+                <action android:name="com.simulas.commons.SHARED_THEME_UPDATED"/>
             </intent-filter>
         </receiver>
     </application>

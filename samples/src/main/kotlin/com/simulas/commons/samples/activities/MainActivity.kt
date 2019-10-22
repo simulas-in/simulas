@@ -1,10 +1,10 @@
 package com.simulas.commons.samples.activities
 
 import android.os.Bundle
-import com.simplemobiletools.commons.activities.BaseSimpleActivity
-import com.simplemobiletools.commons.extensions.appLaunched
-import com.simplemobiletools.commons.samples.BuildConfig
-import com.simplemobiletools.commons.samples.R
+import com.simulas.commons.activities.BaseSimpleActivity
+import com.simulas.commons.extensions.appLaunched
+import com.simulas.commons.samples.BuildConfig
+import com.simulas.commons.samples.R
 import java.util.*
 
 class MainActivity : BaseSimpleActivity() {
